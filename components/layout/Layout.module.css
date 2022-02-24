@@ -1,0 +1,10 @@
+.headerLayout {
+  position: fixed;
+  top: 0;
+  background-color: white;
+}
+
+.bodySection {
+  background-color: rgb(218, 217, 228);
+  padding: 3rem 8rem;
+}

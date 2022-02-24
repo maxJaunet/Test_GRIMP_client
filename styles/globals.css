@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.Home {
+  padding: 2rem 12rem;
+}

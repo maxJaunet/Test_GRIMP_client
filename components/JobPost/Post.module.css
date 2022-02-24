@@ -1,0 +1,43 @@
+.Post {
+  background-color: rgb(255, 254, 254);
+  width: 100%;
+  border-radius: 10px;
+  margin: 1.5rem auto;
+  padding: 0.5rem;
+  height: 10rem;
+}
+
+.logoBox {
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  margin-top: auto; 
+}
+
+.coverBox {
+  border-radius: 8px;
+  padding: 2rem auto;
+}
+
+.contentBox h3 {
+  margin: 0 auto 0 0;
+  border-bottom: 1px solid gray;
+  width: 100%;
+}
+
+.contentBox p {
+    margin: 8px auto 0 0;
+}
+
+button.learnMore {
+   color:rgb(129, 126, 167);
+  background: none;
+  border: none;
+}
+.learnMore:hover {
+  cursor: pointer;
+}

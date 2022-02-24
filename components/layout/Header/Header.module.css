@@ -1,0 +1,12 @@
+.Header {
+  padding: 2rem 5rem;
+  
+}
+
+.Header ul {
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+}
